@@ -32,7 +32,7 @@ class PunchedCards {
     }
 
     static void solve(int caseNum, int row, int column){
-        System.out.println(String.format("Case %d", caseNum));
+        System.out.println(String.format("Case #%d:", caseNum));
         for(int r = 0; r<row; r++){
             System.out.println(borderLine(column, r==0));
             System.out.println(punchLine(column, r==0));
