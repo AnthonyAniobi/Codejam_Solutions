@@ -11,3 +11,4 @@ This is a list of solutions available in this repository:
   -[x] D1000000
   -[ ] Chain Reactions
   -[ ] Twisty Little Passes
+  -[ ] Double or One Thing
