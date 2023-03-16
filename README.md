@@ -6,5 +6,8 @@ This is a list of solutions available in this repository:
 
 ### 2022
 - Qualification Round
-    * Punched Cards
-    * 3d printing
+  -[x] Punched Cards
+  -[x] 3d printing
+  -[x] D1000000
+  -[ ] Chain Reactions
+  -[ ] Twisty Little Passes
